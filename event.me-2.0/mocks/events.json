@@ -1,0 +1,3087 @@
+
+[
+  {
+    "_id": "5878c5145f94d3001c1469c5",
+    "updatedAt": "2017-01-29T09:44:31.131Z",
+    "createdAt": "2017-01-13T12:16:20.671Z",
+    "startsAt": "2017-01-30T11:15:33.000Z",
+    "title": "Mexican Night Party vol. 2",
+    "description": "Party in Scrollbar",
+    "capacity": 50,
+    "owner": {
+      "_id": "5878befc5f94d3001c1469c3",
+      "firstName": "Daniel",
+      "lastName": "Kijkov",
+      "email": "dankijkov@gmail.com",
+      "__v": 0,
+      "id": "5878befc5f94d3001c1469c3"
+    },
+    "__v": 97,
+    "attendees": [
+      {
+        "_id": "5878befc5f94d3001c1469c3",
+        "firstName": "Daniel",
+        "lastName": "Kijkov",
+        "email": "dankijkov@gmail.com",
+        "__v": 0,
+        "id": "5878befc5f94d3001c1469c3"
+      },
+      {
+        "_id": "5878c66f5f94d3001c1469c8",
+        "firstName": "Just",
+        "lastName": "Thor",
+        "email": "thor@strv.com",
+        "__v": 0,
+        "id": "5878c66f5f94d3001c1469c8"
+      },
+      {
+        "_id": "5878c71f5f94d3001c1469ca",
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "email": "peterparker@strv.com",
+        "__v": 0,
+        "id": "5878c71f5f94d3001c1469ca"
+      },
+      {
+        "_id": "5878c7986cd5a70022992ce2",
+        "firstName": "Bucky",
+        "lastName": "Barnes",
+        "email": "buckybarnes@strv.com",
+        "__v": 0,
+        "id": "5878c7986cd5a70022992ce2"
+      },
+      {
+        "_id": "5884eb0d3d76ea0022304474",
+        "firstName": "Adam",
+        "lastName": "V",
+        "email": "adam.vresky+test12345@strv.com",
+        "__v": 0,
+        "id": "5884eb0d3d76ea0022304474"
+      }
+    ],
+    "id": "5878c5145f94d3001c1469c5"
+  },
+  {
+    "_id": "5878c4156cd5a70022992cde",
+    "updatedAt": "2017-03-23T23:16:06.591Z",
+    "createdAt": "2017-01-13T12:12:05.143Z",
+    "startsAt": "2017-03-24T12:09:25.000Z",
+    "title": "Party in Brooklyn ;)",
+    "description": "Yo yo, I would like to invite you to a little party. Drinks and food sponsored by Tony Stark!",
+    "capacity": 100,
+    "owner": {
+      "_id": "5878c3646cd5a70022992cdd",
+      "firstName": "Steve",
+      "lastName": "Rogers",
+      "email": "steverogers@strv.com",
+      "__v": 0,
+      "id": "5878c3646cd5a70022992cdd"
+    },
+    "__v": 1640,
+    "attendees": [
+      {
+        "_id": "5878c71f5f94d3001c1469ca",
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "email": "peterparker@strv.com",
+        "__v": 0,
+        "id": "5878c71f5f94d3001c1469ca"
+      },
+      {
+        "_id": "587bb3c4fc9b32002275dabb",
+        "firstName": "Test",
+        "lastName": "User",
+        "email": "testtest@test.com",
+        "__v": 0,
+        "id": "587bb3c4fc9b32002275dabb"
+      },
+      {
+        "_id": "587bb3c4fc9b32002275dabb",
+        "firstName": "Test",
+        "lastName": "User",
+        "email": "testtest@test.com",
+        "__v": 0,
+        "id": "587bb3c4fc9b32002275dabb"
+      },
+      {
+        "_id": "5878befc5f94d3001c1469c3",
+        "firstName": "Daniel",
+        "lastName": "Kijkov",
+        "email": "dankijkov@gmail.com",
+        "__v": 0,
+        "id": "5878befc5f94d3001c1469c3"
+      },
+      {
+        "_id": "5878c5dd5f94d3001c1469c7",
+        "firstName": "Black",
+        "lastName": "Widow",
+        "email": "blackwidow@strv.com",
+        "__v": 0,
+        "id": "5878c5dd5f94d3001c1469c7"
+      },
+      {
+        "_id": "5878c8336cd5a70022992ce4",
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "email": "tonystark@strv.com",
+        "__v": 0,
+        "id": "5878c8336cd5a70022992ce4"
+      },
+      {
+        "_id": "58c661873d3be70022b70940",
+        "firstName": "test",
+        "lastName": "user",
+        "email": "user@example.com",
+        "__v": 0,
+        "id": "58c661873d3be70022b70940"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      },
+      {
+        "_id": "5878c66f5f94d3001c1469c8",
+        "firstName": "Just",
+        "lastName": "Thor",
+        "email": "thor@strv.com",
+        "__v": 0,
+        "id": "5878c66f5f94d3001c1469c8"
+      }
+    ],
+    "id": "5878c4156cd5a70022992cde"
+  },
+  {
+    "_id": "587f47de664d9100222e2ae5",
+    "updatedAt": "2017-01-26T19:02:59.291Z",
+    "createdAt": "2017-01-18T10:47:58.718Z",
+    "title": "new event",
+    "description": "Test event.",
+    "startsAt": "2017-01-27T10:47:29.669Z",
+    "capacity": 25,
+    "owner": {
+      "_id": "58791da5105293001c2c8875",
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@test.com",
+      "__v": 0,
+      "id": "58791da5105293001c2c8875"
+    },
+    "__v": 7,
+    "attendees": [
+      {
+        "_id": "58791da5105293001c2c8875",
+        "firstName": "Test",
+        "lastName": "User",
+        "email": "test@test.com",
+        "__v": 0,
+        "id": "58791da5105293001c2c8875"
+      },
+      {
+        "_id": "587f4cbe6984a7001c044e10",
+        "firstName": "Ni",
+        "lastName": "Rei",
+        "email": "newuser@test.com",
+        "__v": 0,
+        "id": "587f4cbe6984a7001c044e10"
+      },
+      {
+        "_id": "5889daa146cb69001cc84af8",
+        "firstName": "torma",
+        "lastName": "teddy",
+        "email": "torma@teddy.com",
+        "__v": 0,
+        "id": "5889daa146cb69001cc84af8"
+      }
+    ],
+    "id": "587f47de664d9100222e2ae5"
+  },
+  {
+    "_id": "588f27c4cf84c2001e55109a",
+    "updatedAt": "2017-04-27T08:10:58.097Z",
+    "createdAt": "2017-01-30T11:47:16.019Z",
+    "title": "Star Wars: The Last Jedi -First Screening",
+    "startsAt": "2017-04-29T10:25:00.000Z",
+    "capacity": 30,
+    "description": "This is first screening of newest Star Wars Episode - The Last Jedi.Great movie !",
+    "owner": {
+      "_id": "5889daa146cb69001cc84af8",
+      "firstName": "torma",
+      "lastName": "teddy",
+      "email": "torma@teddy.com",
+      "__v": 0,
+      "id": "5889daa146cb69001cc84af8"
+    },
+    "__v": 1372,
+    "attendees": [
+      {
+        "_id": "589645e83282e400222d88fb",
+        "firstName": "bob",
+        "lastName": "bob",
+        "email": "bob@bob.com",
+        "__v": 0,
+        "id": "589645e83282e400222d88fb"
+      },
+      {
+        "_id": "5878c66f5f94d3001c1469c8",
+        "firstName": "Just",
+        "lastName": "Thor",
+        "email": "thor@strv.com",
+        "__v": 0,
+        "id": "5878c66f5f94d3001c1469c8"
+      },
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      },
+      {
+        "_id": "5878c7986cd5a70022992ce2",
+        "firstName": "Bucky",
+        "lastName": "Barnes",
+        "email": "buckybarnes@strv.com",
+        "__v": 0,
+        "id": "5878c7986cd5a70022992ce2"
+      },
+      {
+        "_id": "5878c5dd5f94d3001c1469c7",
+        "firstName": "Black",
+        "lastName": "Widow",
+        "email": "blackwidow@strv.com",
+        "__v": 0,
+        "id": "5878c5dd5f94d3001c1469c7"
+      },
+      {
+        "_id": "5878c8336cd5a70022992ce4",
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "email": "tonystark@strv.com",
+        "__v": 0,
+        "id": "5878c8336cd5a70022992ce4"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "588f27c4cf84c2001e55109a"
+  },
+  {
+    "_id": "58c71ca573a4f4001cc3d822",
+    "updatedAt": "2017-03-29T08:05:08.983Z",
+    "createdAt": "2017-03-13T22:26:45.823Z",
+    "title": "fadsfda",
+    "description": "dsaf",
+    "startsAt": "2017-03-30T00:00:00.000Z",
+    "capacity": 23,
+    "owner": {
+      "_id": "58c719413d3be70022b70948",
+      "firstName": "nj",
+      "lastName": "nj",
+      "email": "nj@nj.com",
+      "__v": 0,
+      "id": "58c719413d3be70022b70948"
+    },
+    "__v": 1112,
+    "attendees": [
+      {
+        "_id": "58c661873d3be70022b70940",
+        "firstName": "test",
+        "lastName": "user",
+        "email": "user@example.com",
+        "__v": 0,
+        "id": "58c661873d3be70022b70940"
+      },
+      {
+        "_id": "58c79dec28a0c300229ff4af",
+        "firstName": "Petr",
+        "lastName": "Malak",
+        "email": "petr.malak@strv.com",
+        "__v": 0,
+        "id": "58c79dec28a0c300229ff4af"
+      },
+      {
+        "_id": "5878c71f5f94d3001c1469ca",
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "email": "peterparker@strv.com",
+        "__v": 0,
+        "id": "5878c71f5f94d3001c1469ca"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58c71ca573a4f4001cc3d822"
+  },
+  {
+    "_id": "58d2b4835d8cd10022120c06",
+    "updatedAt": "2017-03-31T19:07:05.768Z",
+    "createdAt": "2017-03-22T17:29:39.842Z",
+    "title": "Civil War",
+    "description": "___",
+    "startsAt": "2017-04-01T16:29:25.000Z",
+    "capacity": 300,
+    "owner": {
+      "_id": "5878c3646cd5a70022992cdd",
+      "firstName": "Steve",
+      "lastName": "Rogers",
+      "email": "steverogers@strv.com",
+      "__v": 0,
+      "id": "5878c3646cd5a70022992cdd"
+    },
+    "__v": 7,
+    "attendees": [
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      }
+    ],
+    "id": "58d2b4835d8cd10022120c06"
+  },
+  {
+    "_id": "58d82f296d1944001c374e27",
+    "updatedAt": "2017-07-26T22:12:14.822Z",
+    "createdAt": "2017-03-26T21:14:17.860Z",
+    "title": "test",
+    "description": "test",
+    "capacity": 1,
+    "startsAt": "2017-12-31T23:00:00.000Z",
+    "owner": {
+      "_id": "5878c71f5f94d3001c1469ca",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peterparker@strv.com",
+      "__v": 0,
+      "id": "5878c71f5f94d3001c1469ca"
+    },
+    "__v": 17,
+    "attendees": [],
+    "id": "58d82f296d1944001c374e27"
+  },
+  {
+    "_id": "58d8324f6d1944001c374e2b",
+    "updatedAt": "2017-03-27T12:35:04.318Z",
+    "createdAt": "2017-03-26T21:27:43.961Z",
+    "title": "asdasdasdssdddd",
+    "description": "dfffffff",
+    "capacity": 2,
+    "startsAt": "2017-03-30T22:00:00.000Z",
+    "owner": {
+      "_id": "5878c71f5f94d3001c1469ca",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peterparker@strv.com",
+      "__v": 0,
+      "id": "5878c71f5f94d3001c1469ca"
+    },
+    "__v": 8,
+    "attendees": [
+      {
+        "_id": "5878c71f5f94d3001c1469ca",
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "email": "peterparker@strv.com",
+        "__v": 0,
+        "id": "5878c71f5f94d3001c1469ca"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58d8324f6d1944001c374e2b"
+  },
+  {
+    "_id": "58d89069c046b7001db3554d",
+    "updatedAt": "2017-03-27T12:34:57.773Z",
+    "createdAt": "2017-03-27T04:09:13.501Z",
+    "title": "test",
+    "description": "desc",
+    "capacity": 1,
+    "startsAt": "2017-03-31T04:09:02.320Z",
+    "owner": {
+      "_id": "5878c71f5f94d3001c1469ca",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peterparker@strv.com",
+      "__v": 0,
+      "id": "5878c71f5f94d3001c1469ca"
+    },
+    "__v": 5,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58d89069c046b7001db3554d"
+  },
+  {
+    "_id": "58e2c3c5942422001c2f378e",
+    "updatedAt": "2017-04-09T23:08:56.777Z",
+    "createdAt": "2017-04-03T21:51:01.764Z",
+    "title": "Example",
+    "description": "Example",
+    "capacity": 123,
+    "startsAt": "2017-04-11T09:00:00.000Z",
+    "owner": {
+      "_id": "5878c3646cd5a70022992cdd",
+      "firstName": "Steve",
+      "lastName": "Rogers",
+      "email": "steverogers@strv.com",
+      "__v": 0,
+      "id": "5878c3646cd5a70022992cdd"
+    },
+    "__v": 34,
+    "attendees": [
+      {
+        "_id": "5889daa146cb69001cc84af8",
+        "firstName": "torma",
+        "lastName": "teddy",
+        "email": "torma@teddy.com",
+        "__v": 0,
+        "id": "5889daa146cb69001cc84af8"
+      },
+      {
+        "_id": "5878c8336cd5a70022992ce4",
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "email": "tonystark@strv.com",
+        "__v": 0,
+        "id": "5878c8336cd5a70022992ce4"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58e2c3c5942422001c2f378e"
+  },
+  {
+    "_id": "58e24705942422001c2f378c",
+    "updatedAt": "2017-04-19T21:03:33.264Z",
+    "createdAt": "2017-04-03T12:58:45.499Z",
+    "title": "Event Created By Dilip",
+    "startsAt": "2017-04-29T00:00:00.000Z",
+    "description": "This is event description created by Dilip",
+    "capacity": 10,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 22,
+    "attendees": [
+      {
+        "_id": "58ebe49f7772c7001cc216db",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@email.com",
+        "__v": 0,
+        "id": "58ebe49f7772c7001cc216db"
+      },
+      {
+        "_id": "58ec205ddb65e500227aad80",
+        "firstName": "hello",
+        "lastName": "wo",
+        "email": "hello@hello.com",
+        "__v": 0,
+        "id": "58ec205ddb65e500227aad80"
+      },
+      {
+        "_id": "58ec1eb47772c7001cc216dc",
+        "firstName": "new",
+        "lastName": "user",
+        "email": "newuser@newuser.com",
+        "__v": 0,
+        "id": "58ec1eb47772c7001cc216dc"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58e24705942422001c2f378c"
+  },
+  {
+    "_id": "58ec1551db65e500227aad7e",
+    "updatedAt": "2017-04-18T14:22:24.136Z",
+    "createdAt": "2017-04-10T23:29:21.490Z",
+    "title": "test",
+    "capacity": 3,
+    "description": "test",
+    "startsAt": "2017-04-18T23:29:09.056Z",
+    "owner": {
+      "_id": "58ebe49f7772c7001cc216db",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@email.com",
+      "__v": 0,
+      "id": "58ebe49f7772c7001cc216db"
+    },
+    "__v": 27,
+    "attendees": [
+      {
+        "_id": "58ec1eb47772c7001cc216dc",
+        "firstName": "new",
+        "lastName": "user",
+        "email": "newuser@newuser.com",
+        "__v": 0,
+        "id": "58ec1eb47772c7001cc216dc"
+      }
+    ],
+    "id": "58ec1551db65e500227aad7e"
+  },
+  {
+    "_id": "58fbe4d2e3413700225da549",
+    "updatedAt": "2017-04-22T23:18:42.944Z",
+    "createdAt": "2017-04-22T23:18:42.944Z",
+    "capacity": 1234,
+    "title": "should be the active column on polls, true",
+    "description": "description",
+    "startsAt": "2017-04-29T05:00:00.000Z",
+    "owner": {
+      "_id": "58fb935de3413700225da545",
+      "firstName": "Casillero",
+      "lastName": "dfe",
+      "email": "jasmo2.com@gmail.com",
+      "__v": 0,
+      "id": "58fb935de3413700225da545"
+    },
+    "__v": 0,
+    "attendees": [],
+    "id": "58fbe4d2e3413700225da549"
+  },
+  {
+    "_id": "58fce4f017ffc7001c0e3917",
+    "updatedAt": "2017-05-06T02:45:12.895Z",
+    "createdAt": "2017-04-23T17:31:28.265Z",
+    "capacity": 344,
+    "title": "ws100",
+    "description": "description",
+    "startsAt": "2017-05-06T05:00:00.000Z",
+    "owner": {
+      "_id": "58fb935de3413700225da545",
+      "firstName": "Casillero",
+      "lastName": "dfe",
+      "email": "jasmo2.com@gmail.com",
+      "__v": 0,
+      "id": "58fb935de3413700225da545"
+    },
+    "__v": 6,
+    "attendees": [],
+    "id": "58fce4f017ffc7001c0e3917"
+  },
+  {
+    "_id": "58fe724eb4b030002271b03e",
+    "updatedAt": "2017-07-26T22:12:22.131Z",
+    "createdAt": "2017-04-24T21:46:54.729Z",
+    "title": "Test Juan 2",
+    "capacity": 8,
+    "startsAt": "2020-04-04T21:46:00.000Z",
+    "description": "Test",
+    "owner": {
+      "_id": "58f18332d7a6ef0022c9bf78",
+      "firstName": "Juan",
+      "lastName": "Magalhaes",
+      "email": "juan.magalhaes@strv.com",
+      "__v": 0,
+      "id": "58f18332d7a6ef0022c9bf78"
+    },
+    "__v": 19,
+    "attendees": [
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      },
+      {
+        "_id": "5878c8336cd5a70022992ce4",
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "email": "tonystark@strv.com",
+        "__v": 0,
+        "id": "5878c8336cd5a70022992ce4"
+      }
+    ],
+    "id": "58fe724eb4b030002271b03e"
+  },
+  {
+    "_id": "590686e39df1c00022b89c81",
+    "updatedAt": "2017-05-09T16:48:27.535Z",
+    "createdAt": "2017-05-01T00:52:51.526Z",
+    "title": "My first events",
+    "description": "My descriptions.",
+    "startsAt": "2017-05-10T16:52:00.000Z",
+    "capacity": 12,
+    "owner": {
+      "_id": "5878c66f5f94d3001c1469c8",
+      "firstName": "Just",
+      "lastName": "Thor",
+      "email": "thor@strv.com",
+      "__v": 0,
+      "id": "5878c66f5f94d3001c1469c8"
+    },
+    "__v": 24,
+    "attendees": [],
+    "id": "590686e39df1c00022b89c81"
+  },
+  {
+    "_id": "5906a635667e81001c2258b3",
+    "updatedAt": "2017-05-09T14:44:35.555Z",
+    "createdAt": "2017-05-01T03:06:29.047Z",
+    "title": "Another Thor Event 2",
+    "description": "Thor will be there.",
+    "startsAt": "2017-05-12T00:05:00.000Z",
+    "capacity": 12,
+    "owner": {
+      "_id": "5878c66f5f94d3001c1469c8",
+      "firstName": "Just",
+      "lastName": "Thor",
+      "email": "thor@strv.com",
+      "__v": 0,
+      "id": "5878c66f5f94d3001c1469c8"
+    },
+    "__v": 10,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      },
+      {
+        "_id": "5878c66f5f94d3001c1469c8",
+        "firstName": "Just",
+        "lastName": "Thor",
+        "email": "thor@strv.com",
+        "__v": 0,
+        "id": "5878c66f5f94d3001c1469c8"
+      }
+    ],
+    "id": "5906a635667e81001c2258b3"
+  },
+  {
+    "_id": "590e7ddd94a57e001c004f52",
+    "updatedAt": "2017-05-07T01:52:29.008Z",
+    "createdAt": "2017-05-07T01:52:29.008Z",
+    "title": "First Salvador ReactJS Conference",
+    "capacity": 200,
+    "startsAt": "2017-05-08T01:45:00.000Z",
+    "description": "Come and see.",
+    "owner": {
+      "_id": "59053b72c13e330022b76343",
+      "email": "juanrochamagalhaes@hotmail.com",
+      "lastName": "Magalhães",
+      "firstName": "Juan",
+      "__v": 0,
+      "id": "59053b72c13e330022b76343"
+    },
+    "__v": 0,
+    "attendees": [],
+    "id": "590e7ddd94a57e001c004f52"
+  },
+  {
+    "_id": "5911d03c2fefc3001cc8cbee",
+    "updatedAt": "2017-05-09T16:43:19.777Z",
+    "createdAt": "2017-05-09T14:20:44.779Z",
+    "title": "Dude... ANOTHER ONE!",
+    "description": "stuff...",
+    "capacity": 2,
+    "startsAt": "2017-05-10T14:20:24.863Z",
+    "owner": {
+      "_id": "5878c4726cd5a70022992cdf",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "email": "brucebanner@strv.com",
+      "__v": 0,
+      "id": "5878c4726cd5a70022992cdf"
+    },
+    "__v": 1,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "5911d03c2fefc3001cc8cbee"
+  },
+  {
+    "_id": "58d5d11b8a35de0022f822aa",
+    "updatedAt": "2017-03-27T09:20:34.267Z",
+    "createdAt": "2017-03-25T02:08:27.349Z",
+    "title": "Drinks with Karl",
+    "description": "Here Karl talk, watch Karl walk",
+    "startsAt": "2017-03-28T10:46:33.901Z",
+    "capacity": 50,
+    "owner": {
+      "_id": "58d5d0ccec5fd0001c2c0eab",
+      "firstName": "Karl",
+      "lastName": "Roden",
+      "email": "karl.roden@strv.com",
+      "__v": 0,
+      "id": "58d5d0ccec5fd0001c2c0eab"
+    },
+    "__v": 6,
+    "attendees": [],
+    "id": "58d5d11b8a35de0022f822aa"
+  },
+  {
+    "_id": "58da5ecb5efb27001ce862af",
+    "updatedAt": "2017-08-20T18:57:19.146Z",
+    "createdAt": "2017-03-28T13:02:03.575Z",
+    "title": "event",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasda",
+    "capacity": 45,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 20,
+    "attendees": [
+      {
+        "_id": "58ec205ddb65e500227aad80",
+        "firstName": "hello",
+        "lastName": "wo",
+        "email": "hello@hello.com",
+        "__v": 0,
+        "id": "58ec205ddb65e500227aad80"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58da5ecb5efb27001ce862af"
+  },
+  {
+    "_id": "58da5f179246e700229c08e2",
+    "updatedAt": "2017-05-09T01:59:23.121Z",
+    "createdAt": "2017-03-28T13:03:19.264Z",
+    "title": "event",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasda",
+    "capacity": 45,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 13,
+    "attendees": [
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      },
+      {
+        "_id": "58ebe49f7772c7001cc216db",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@email.com",
+        "__v": 0,
+        "id": "58ebe49f7772c7001cc216db"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58da5f179246e700229c08e2"
+  },
+  {
+    "_id": "58da5f999246e700229c08e3",
+    "updatedAt": "2017-05-09T16:49:04.411Z",
+    "createdAt": "2017-03-28T13:05:29.683Z",
+    "title": "event",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasda",
+    "capacity": 45,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 22,
+    "attendees": [
+      {
+        "_id": "5878c8336cd5a70022992ce4",
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "email": "tonystark@strv.com",
+        "__v": 0,
+        "id": "5878c8336cd5a70022992ce4"
+      },
+      {
+        "_id": "58fc261de3413700225da550",
+        "email": "t_tones@t_tones.com",
+        "firstName": "Tmoney",
+        "lastName": "Tones",
+        "__v": 0,
+        "id": "58fc261de3413700225da550"
+      },
+      {
+        "_id": "58f18332d7a6ef0022c9bf78",
+        "firstName": "Juan",
+        "lastName": "Magalhaes",
+        "email": "juan.magalhaes@strv.com",
+        "__v": 0,
+        "id": "58f18332d7a6ef0022c9bf78"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58da5f999246e700229c08e3"
+  },
+  {
+    "_id": "58da64865efb27001ce862b0",
+    "updatedAt": "2017-05-08T18:25:22.104Z",
+    "createdAt": "2017-03-28T13:26:30.212Z",
+    "title": "event",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasda",
+    "capacity": 45,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 27,
+    "attendees": [
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      },
+      {
+        "_id": "58f18332d7a6ef0022c9bf78",
+        "firstName": "Juan",
+        "lastName": "Magalhaes",
+        "email": "juan.magalhaes@strv.com",
+        "__v": 0,
+        "id": "58f18332d7a6ef0022c9bf78"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58da64865efb27001ce862b0"
+  },
+  {
+    "_id": "58da9ebe5efb27001ce862b2",
+    "updatedAt": "2017-05-09T01:59:26.715Z",
+    "createdAt": "2017-03-28T17:34:54.785Z",
+    "title": "dasldja",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "jdaskljdasjkl",
+    "capacity": 5,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 20,
+    "attendees": [
+      {
+        "_id": "58f18332d7a6ef0022c9bf78",
+        "firstName": "Juan",
+        "lastName": "Magalhaes",
+        "email": "juan.magalhaes@strv.com",
+        "__v": 0,
+        "id": "58f18332d7a6ef0022c9bf78"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58da9ebe5efb27001ce862b2"
+  },
+  {
+    "_id": "58daa12c5efb27001ce862b3",
+    "updatedAt": "2017-05-11T13:38:57.095Z",
+    "createdAt": "2017-03-28T17:45:16.912Z",
+    "title": "event",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "asdas",
+    "capacity": 123,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 15,
+    "attendees": [
+      {
+        "_id": "58f18332d7a6ef0022c9bf78",
+        "firstName": "Juan",
+        "lastName": "Magalhaes",
+        "email": "juan.magalhaes@strv.com",
+        "__v": 0,
+        "id": "58f18332d7a6ef0022c9bf78"
+      }
+    ],
+    "id": "58daa12c5efb27001ce862b3"
+  },
+  {
+    "_id": "58daa16e9246e700229c08e6",
+    "updatedAt": "2017-05-02T16:31:15.073Z",
+    "createdAt": "2017-03-28T17:46:22.398Z",
+    "title": "test",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasd",
+    "capacity": 4,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 11,
+    "attendees": [
+      {
+        "_id": "58ec1eb47772c7001cc216dc",
+        "firstName": "new",
+        "lastName": "user",
+        "email": "newuser@newuser.com",
+        "__v": 0,
+        "id": "58ec1eb47772c7001cc216dc"
+      },
+      {
+        "_id": "5878c5dd5f94d3001c1469c7",
+        "firstName": "Black",
+        "lastName": "Widow",
+        "email": "blackwidow@strv.com",
+        "__v": 0,
+        "id": "5878c5dd5f94d3001c1469c7"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58daa16e9246e700229c08e6"
+  },
+  {
+    "_id": "58daa1725efb27001ce862b4",
+    "updatedAt": "2017-05-09T01:59:29.165Z",
+    "createdAt": "2017-03-28T17:46:26.471Z",
+    "title": "test",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasd",
+    "capacity": 4,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 24,
+    "attendees": [
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      },
+      {
+        "_id": "5878c5dd5f94d3001c1469c7",
+        "firstName": "Black",
+        "lastName": "Widow",
+        "email": "blackwidow@strv.com",
+        "__v": 0,
+        "id": "5878c5dd5f94d3001c1469c7"
+      },
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58daa1725efb27001ce862b4"
+  },
+  {
+    "_id": "58daa1779246e700229c08e7",
+    "updatedAt": "2017-06-17T00:14:58.739Z",
+    "createdAt": "2017-03-28T17:46:31.369Z",
+    "title": "test",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasd",
+    "capacity": 4,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 24,
+    "attendees": [
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      },
+      {
+        "_id": "58ec1eb47772c7001cc216dc",
+        "firstName": "new",
+        "lastName": "user",
+        "email": "newuser@newuser.com",
+        "__v": 0,
+        "id": "58ec1eb47772c7001cc216dc"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58daa1779246e700229c08e7"
+  },
+  {
+    "_id": "58daa17f5efb27001ce862b5",
+    "updatedAt": "2017-06-06T13:39:33.652Z",
+    "createdAt": "2017-03-28T17:46:39.402Z",
+    "title": "test",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasd",
+    "capacity": 4,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 55,
+    "attendees": [
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      },
+      {
+        "_id": "5878c66f5f94d3001c1469c8",
+        "firstName": "Just",
+        "lastName": "Thor",
+        "email": "thor@strv.com",
+        "__v": 0,
+        "id": "5878c66f5f94d3001c1469c8"
+      }
+    ],
+    "id": "58daa17f5efb27001ce862b5"
+  },
+  {
+    "_id": "58daa17f9246e700229c08e8",
+    "updatedAt": "2017-07-26T22:12:16.473Z",
+    "createdAt": "2017-03-28T17:46:39.730Z",
+    "title": "test",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasd",
+    "capacity": 4,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 35,
+    "attendees": [
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      },
+      {
+        "_id": "5878c8336cd5a70022992ce4",
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "email": "tonystark@strv.com",
+        "__v": 0,
+        "id": "5878c8336cd5a70022992ce4"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58daa17f9246e700229c08e8"
+  },
+  {
+    "_id": "58daa17f5efb27001ce862b6",
+    "updatedAt": "2017-07-26T22:12:12.942Z",
+    "createdAt": "2017-03-28T17:46:39.936Z",
+    "title": "test",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasd",
+    "capacity": 4,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 45,
+    "attendees": [
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      }
+    ],
+    "id": "58daa17f5efb27001ce862b6"
+  },
+  {
+    "_id": "58dca031398510001c52fc8d",
+    "updatedAt": "2017-05-22T14:15:58.679Z",
+    "createdAt": "2017-03-30T06:05:37.445Z",
+    "title": "Testing american event 3/2",
+    "startsAt": "2017-06-01T05:00:00.000Z",
+    "description": "Testing that this test works really well  :)",
+    "capacity": 27,
+    "owner": {
+      "_id": "5878c3646cd5a70022992cdd",
+      "firstName": "Steve",
+      "lastName": "Rogers",
+      "email": "steverogers@strv.com",
+      "__v": 0,
+      "id": "5878c3646cd5a70022992cdd"
+    },
+    "__v": 50,
+    "attendees": [
+      {
+        "_id": "5878befc5f94d3001c1469c3",
+        "firstName": "Daniel",
+        "lastName": "Kijkov",
+        "email": "dankijkov@gmail.com",
+        "__v": 0,
+        "id": "5878befc5f94d3001c1469c3"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58dca031398510001c52fc8d"
+  },
+  {
+    "_id": "58e1fa2115e51e001d8e9f20",
+    "updatedAt": "2017-04-04T09:15:55.184Z",
+    "createdAt": "2017-04-03T07:30:41.440Z",
+    "title": "Example",
+    "description": "example",
+    "capacity": 12,
+    "startsAt": "2017-04-06T09:00:00.000Z",
+    "owner": {
+      "_id": "5878c71f5f94d3001c1469ca",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peterparker@strv.com",
+      "__v": 0,
+      "id": "5878c71f5f94d3001c1469ca"
+    },
+    "__v": 4,
+    "attendees": [
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      }
+    ],
+    "id": "58e1fa2115e51e001d8e9f20"
+  },
+  {
+    "_id": "58da59179246e700229c08df",
+    "updatedAt": "2017-04-23T10:59:15.844Z",
+    "createdAt": "2017-03-28T12:37:43.174Z",
+    "title": "This is updated Event on 4/4/2017",
+    "description": "This is updated Event on 4/4/2017",
+    "startsAt": "2017-04-29T00:00:00.000Z",
+    "capacity": 49,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 13,
+    "attendees": [
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      },
+      {
+        "_id": "58ec1eb47772c7001cc216dc",
+        "firstName": "new",
+        "lastName": "user",
+        "email": "newuser@newuser.com",
+        "__v": 0,
+        "id": "58ec1eb47772c7001cc216dc"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58da59179246e700229c08df"
+  },
+  {
+    "_id": "58e2d3db942422001c2f3790",
+    "updatedAt": "2017-04-03T22:59:39.703Z",
+    "createdAt": "2017-04-03T22:59:39.703Z",
+    "title": "Bruce's Event",
+    "description": "See bruce talk",
+    "capacity": 2213,
+    "startsAt": "2017-04-04T09:00:00.000Z",
+    "owner": {
+      "_id": "5878c7986cd5a70022992ce2",
+      "firstName": "Bucky",
+      "lastName": "Barnes",
+      "email": "buckybarnes@strv.com",
+      "__v": 0,
+      "id": "5878c7986cd5a70022992ce2"
+    },
+    "__v": 0,
+    "attendees": [],
+    "id": "58e2d3db942422001c2f3790"
+  },
+  {
+    "_id": "58e2d62115e51e001d8e9f25",
+    "updatedAt": "2017-04-06T21:17:54.481Z",
+    "createdAt": "2017-04-03T23:09:21.132Z",
+    "title": "New User's Event",
+    "description": "Gonna be awesome",
+    "capacity": 234,
+    "startsAt": "2017-04-10T09:00:00.000Z",
+    "owner": {
+      "_id": "5878c7986cd5a70022992ce2",
+      "firstName": "Bucky",
+      "lastName": "Barnes",
+      "email": "buckybarnes@strv.com",
+      "__v": 0,
+      "id": "5878c7986cd5a70022992ce2"
+    },
+    "__v": 2,
+    "attendees": [],
+    "id": "58e2d62115e51e001d8e9f25"
+  },
+  {
+    "_id": "58e6bf882fb135001c204129",
+    "updatedAt": "2017-04-18T23:23:16.341Z",
+    "createdAt": "2017-04-06T22:22:00.391Z",
+    "title": "React doučko",
+    "startsAt": "2017-04-19T00:00:00.000Z",
+    "capacity": 100,
+    "description": "aaa",
+    "owner": {
+      "_id": "5878c8336cd5a70022992ce4",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "email": "tonystark@strv.com",
+      "__v": 0,
+      "id": "5878c8336cd5a70022992ce4"
+    },
+    "__v": 17,
+    "attendees": [
+      {
+        "_id": "58ec1eb47772c7001cc216dc",
+        "firstName": "new",
+        "lastName": "user",
+        "email": "newuser@newuser.com",
+        "__v": 0,
+        "id": "58ec1eb47772c7001cc216dc"
+      },
+      {
+        "_id": "58f3f05c7b7b4a001ce3a120",
+        "firstName": "el",
+        "lastName": "capitan",
+        "email": "user@example10.com",
+        "__v": 0,
+        "id": "58f3f05c7b7b4a001ce3a120"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58e6bf882fb135001c204129"
+  },
+  {
+    "_id": "58e75c89cebd01001c791405",
+    "updatedAt": "2017-04-18T23:30:31.732Z",
+    "createdAt": "2017-04-07T09:31:53.375Z",
+    "title": "Honzík",
+    "startsAt": "2017-04-19T00:00:00.000Z",
+    "capacity": 13,
+    "description": "Honza to založil",
+    "owner": {
+      "_id": "5878c8336cd5a70022992ce4",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "email": "tonystark@strv.com",
+      "__v": 0,
+      "id": "5878c8336cd5a70022992ce4"
+    },
+    "__v": 14,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58e75c89cebd01001c791405"
+  },
+  {
+    "_id": "58d26cbe5d8cd10022120c04",
+    "updatedAt": "2017-04-27T15:49:46.702Z",
+    "createdAt": "2017-03-22T12:23:26.274Z",
+    "title": "STRV",
+    "description": "An STRV Event",
+    "startsAt": "2017-05-01T10:25:01.000Z",
+    "capacity": 4,
+    "owner": {
+      "_id": "5878c3646cd5a70022992cdd",
+      "firstName": "Steve",
+      "lastName": "Rogers",
+      "email": "steverogers@strv.com",
+      "__v": 0,
+      "id": "5878c3646cd5a70022992cdd"
+    },
+    "__v": 40,
+    "attendees": [
+      {
+        "_id": "5878c71f5f94d3001c1469ca",
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "email": "peterparker@strv.com",
+        "__v": 0,
+        "id": "5878c71f5f94d3001c1469ca"
+      },
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58d26cbe5d8cd10022120c04"
+  },
+  {
+    "_id": "58e749372e642900227f1949",
+    "updatedAt": "2017-04-20T15:58:09.011Z",
+    "createdAt": "2017-04-07T08:09:27.138Z",
+    "title": "Honzík",
+    "startsAt": "2017-04-22T00:00:00.000Z",
+    "capacity": 13,
+    "description": "Honza to založil",
+    "owner": {
+      "_id": "5878c8336cd5a70022992ce4",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "email": "tonystark@strv.com",
+      "__v": 0,
+      "id": "5878c8336cd5a70022992ce4"
+    },
+    "__v": 32,
+    "attendees": [
+      {
+        "_id": "5878c8336cd5a70022992ce4",
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "email": "tonystark@strv.com",
+        "__v": 0,
+        "id": "5878c8336cd5a70022992ce4"
+      },
+      {
+        "_id": "58ebe49f7772c7001cc216db",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@email.com",
+        "__v": 0,
+        "id": "58ebe49f7772c7001cc216db"
+      },
+      {
+        "_id": "58ec205ddb65e500227aad80",
+        "firstName": "hello",
+        "lastName": "wo",
+        "email": "hello@hello.com",
+        "__v": 0,
+        "id": "58ec205ddb65e500227aad80"
+      },
+      {
+        "_id": "58ee3a6814d897001c4c4554",
+        "firstName": "Johny",
+        "lastName": "Test",
+        "email": "test12@gmail.com",
+        "__v": 0,
+        "id": "58ee3a6814d897001c4c4554"
+      },
+      {
+        "_id": "58ec1eb47772c7001cc216dc",
+        "firstName": "new",
+        "lastName": "user",
+        "email": "newuser@newuser.com",
+        "__v": 0,
+        "id": "58ec1eb47772c7001cc216dc"
+      },
+      {
+        "_id": "58c661873d3be70022b70940",
+        "firstName": "test",
+        "lastName": "user",
+        "email": "user@example.com",
+        "__v": 0,
+        "id": "58c661873d3be70022b70940"
+      }
+    ],
+    "id": "58e749372e642900227f1949"
+  },
+  {
+    "_id": "58e2d4e6942422001c2f3791",
+    "updatedAt": "2017-04-11T17:11:14.633Z",
+    "createdAt": "2017-04-03T23:04:06.027Z",
+    "title": "Bruce's other event",
+    "description": "This is hosted by bruce",
+    "capacity": 234,
+    "startsAt": "2017-04-12T09:00:00.000Z",
+    "owner": {
+      "_id": "5878c7986cd5a70022992ce2",
+      "firstName": "Bucky",
+      "lastName": "Barnes",
+      "email": "buckybarnes@strv.com",
+      "__v": 0,
+      "id": "5878c7986cd5a70022992ce2"
+    },
+    "__v": 27,
+    "attendees": [
+      {
+        "_id": "58ebe49f7772c7001cc216db",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@email.com",
+        "__v": 0,
+        "id": "58ebe49f7772c7001cc216db"
+      },
+      {
+        "_id": "58ec205ddb65e500227aad80",
+        "firstName": "hello",
+        "lastName": "wo",
+        "email": "hello@hello.com",
+        "__v": 0,
+        "id": "58ec205ddb65e500227aad80"
+      },
+      {
+        "_id": "5878befc5f94d3001c1469c3",
+        "firstName": "Daniel",
+        "lastName": "Kijkov",
+        "email": "dankijkov@gmail.com",
+        "__v": 0,
+        "id": "5878befc5f94d3001c1469c3"
+      }
+    ],
+    "id": "58e2d4e6942422001c2f3791"
+  },
+  {
+    "_id": "58ebecf9db65e500227aad7c",
+    "updatedAt": "2017-05-22T13:48:32.713Z",
+    "createdAt": "2017-04-10T20:37:13.316Z",
+    "title": "Javascript Meetup",
+    "capacity": 60,
+    "description": "Come and talk about new javascript stuff",
+    "startsAt": "2017-05-24T16:36:15.209Z",
+    "owner": {
+      "_id": "58ebe49f7772c7001cc216db",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john.doe@email.com",
+      "__v": 0,
+      "id": "58ebe49f7772c7001cc216db"
+    },
+    "__v": 24,
+    "attendees": [
+      {
+        "_id": "58ebe49f7772c7001cc216db",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@email.com",
+        "__v": 0,
+        "id": "58ebe49f7772c7001cc216db"
+      },
+      {
+        "_id": "58ec1eb47772c7001cc216dc",
+        "firstName": "new",
+        "lastName": "user",
+        "email": "newuser@newuser.com",
+        "__v": 0,
+        "id": "58ec1eb47772c7001cc216dc"
+      },
+      {
+        "_id": "5878c71f5f94d3001c1469ca",
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "email": "peterparker@strv.com",
+        "__v": 0,
+        "id": "5878c71f5f94d3001c1469ca"
+      }
+    ],
+    "id": "58ebecf9db65e500227aad7c"
+  },
+  {
+    "_id": "58e2dc7f15e51e001d8e9f29",
+    "updatedAt": "2017-04-12T19:08:43.393Z",
+    "createdAt": "2017-04-03T23:36:31.856Z",
+    "title": "Should be thor's event",
+    "description": "lkajsdf",
+    "capacity": 123,
+    "startsAt": "2017-04-13T21:00:00.000Z",
+    "owner": {
+      "_id": "58e2d608942422001c2f3793",
+      "email": "new@user.com",
+      "firstName": "New",
+      "lastName": "User",
+      "__v": 0,
+      "id": "58e2d608942422001c2f3793"
+    },
+    "__v": 20,
+    "attendees": [
+      {
+        "_id": "58e2d608942422001c2f3793",
+        "email": "new@user.com",
+        "firstName": "New",
+        "lastName": "User",
+        "__v": 0,
+        "id": "58e2d608942422001c2f3793"
+      },
+      {
+        "_id": "5878c8336cd5a70022992ce4",
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "email": "tonystark@strv.com",
+        "__v": 0,
+        "id": "5878c8336cd5a70022992ce4"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      },
+      {
+        "_id": "58ec1eb47772c7001cc216dc",
+        "firstName": "new",
+        "lastName": "user",
+        "email": "newuser@newuser.com",
+        "__v": 0,
+        "id": "58ec1eb47772c7001cc216dc"
+      }
+    ],
+    "id": "58e2dc7f15e51e001d8e9f29"
+  },
+  {
+    "_id": "58e1fb91942422001c2f3789",
+    "updatedAt": "2017-04-17T11:27:20.187Z",
+    "createdAt": "2017-04-03T07:36:49.804Z",
+    "title": "What",
+    "description": "What",
+    "capacity": 213,
+    "startsAt": "2017-04-18T09:00:00.000Z",
+    "owner": {
+      "_id": "5878c71f5f94d3001c1469ca",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peterparker@strv.com",
+      "__v": 0,
+      "id": "5878c71f5f94d3001c1469ca"
+    },
+    "__v": 16,
+    "attendees": [
+      {
+        "_id": "5878c71f5f94d3001c1469ca",
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "email": "peterparker@strv.com",
+        "__v": 0,
+        "id": "5878c71f5f94d3001c1469ca"
+      },
+      {
+        "_id": "5878c3646cd5a70022992cdd",
+        "firstName": "Steve",
+        "lastName": "Rogers",
+        "email": "steverogers@strv.com",
+        "__v": 0,
+        "id": "5878c3646cd5a70022992cdd"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58e1fb91942422001c2f3789"
+  },
+  {
+    "_id": "58c5eba9075ffc001c1fad5e",
+    "updatedAt": "2017-05-19T13:42:11.701Z",
+    "createdAt": "2017-03-13T00:45:29.608Z",
+    "description": "Your description",
+    "title": "Event title",
+    "startsAt": "2017-05-20T05:02:00.000Z",
+    "capacity": 30,
+    "owner": {
+      "_id": "58c5ea74075ffc001c1fad5d",
+      "firstName": "asdf",
+      "lastName": "fasd",
+      "email": "asdf@asdf.com",
+      "__v": 0,
+      "id": "58c5ea74075ffc001c1fad5d"
+    },
+    "__v": 1187,
+    "attendees": [
+      {
+        "_id": "5878c5dd5f94d3001c1469c7",
+        "firstName": "Black",
+        "lastName": "Widow",
+        "email": "blackwidow@strv.com",
+        "__v": 0,
+        "id": "5878c5dd5f94d3001c1469c7"
+      },
+      {
+        "_id": "58ec1eb47772c7001cc216dc",
+        "firstName": "new",
+        "lastName": "user",
+        "email": "newuser@newuser.com",
+        "__v": 0,
+        "id": "58ec1eb47772c7001cc216dc"
+      },
+      {
+        "_id": "58fb935de3413700225da545",
+        "firstName": "Casillero",
+        "lastName": "dfe",
+        "email": "jasmo2.com@gmail.com",
+        "__v": 0,
+        "id": "58fb935de3413700225da545"
+      }
+    ],
+    "id": "58c5eba9075ffc001c1fad5e"
+  },
+  {
+    "_id": "58f5c2c5a9ccfb002297cbc2",
+    "updatedAt": "2017-04-19T13:09:06.439Z",
+    "createdAt": "2017-04-18T07:39:49.728Z",
+    "title": "lkdaslkdmaskdmaskd",
+    "startsAt": "2017-04-27T00:00:00.000Z",
+    "capacity": 999,
+    "description": "asndklasdklasmdkasmdas",
+    "owner": {
+      "_id": "5878c8336cd5a70022992ce4",
+      "firstName": "Tony",
+      "lastName": "Stark",
+      "email": "tonystark@strv.com",
+      "__v": 0,
+      "id": "5878c8336cd5a70022992ce4"
+    },
+    "__v": 23,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58f5c2c5a9ccfb002297cbc2"
+  },
+  {
+    "_id": "58fcc1ae17ffc7001c0e390c",
+    "updatedAt": "2017-05-02T16:30:13.312Z",
+    "createdAt": "2017-04-23T15:01:02.507Z",
+    "capacity": 550,
+    "title": "Rockabilia",
+    "description": "Test",
+    "startsAt": "2017-05-03T05:00:00.000Z",
+    "owner": {
+      "_id": "58fcc00f17ffc7001c0e3909",
+      "firstName": "Hank",
+      "lastName": "Black",
+      "email": "hank8617@gmail.com",
+      "__v": 0,
+      "id": "58fcc00f17ffc7001c0e3909"
+    },
+    "__v": 17,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58fcc1ae17ffc7001c0e390c"
+  },
+  {
+    "_id": "58fce4cb17ffc7001c0e3916",
+    "updatedAt": "2017-05-05T04:00:42.947Z",
+    "createdAt": "2017-04-23T17:30:51.665Z",
+    "capacity": 1231324,
+    "title": "fasdf",
+    "description": "description",
+    "startsAt": "2017-05-06T05:00:00.000Z",
+    "owner": {
+      "_id": "58fb935de3413700225da545",
+      "firstName": "Casillero",
+      "lastName": "dfe",
+      "email": "jasmo2.com@gmail.com",
+      "__v": 0,
+      "id": "58fb935de3413700225da545"
+    },
+    "__v": 13,
+    "attendees": [
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      }
+    ],
+    "id": "58fce4cb17ffc7001c0e3916"
+  },
+  {
+    "_id": "58fce50d17ffc7001c0e3918",
+    "updatedAt": "2017-05-05T07:50:08.313Z",
+    "createdAt": "2017-04-23T17:31:57.760Z",
+    "capacity": 455,
+    "title": "sjsj",
+    "description": "12341234",
+    "startsAt": "2017-05-06T05:00:00.000Z",
+    "owner": {
+      "_id": "58fb935de3413700225da545",
+      "firstName": "Casillero",
+      "lastName": "dfe",
+      "email": "jasmo2.com@gmail.com",
+      "__v": 0,
+      "id": "58fb935de3413700225da545"
+    },
+    "__v": 10,
+    "attendees": [
+      {
+        "_id": "58fb935de3413700225da545",
+        "firstName": "Casillero",
+        "lastName": "dfe",
+        "email": "jasmo2.com@gmail.com",
+        "__v": 0,
+        "id": "58fb935de3413700225da545"
+      },
+      {
+        "_id": "58fcc00f17ffc7001c0e3909",
+        "firstName": "Hank",
+        "lastName": "Black",
+        "email": "hank8617@gmail.com",
+        "__v": 0,
+        "id": "58fcc00f17ffc7001c0e3909"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58fce50d17ffc7001c0e3918"
+  },
+  {
+    "_id": "58fcee57b3df9e001dc569f7",
+    "updatedAt": "2017-04-23T18:16:49.349Z",
+    "createdAt": "2017-04-23T18:11:35.230Z",
+    "capacity": 1,
+    "title": "Rap and roll",
+    "description": "Test",
+    "startsAt": "2017-05-31T05:00:00.000Z",
+    "owner": {
+      "_id": "58fcc00f17ffc7001c0e3909",
+      "firstName": "Hank",
+      "lastName": "Black",
+      "email": "hank8617@gmail.com",
+      "__v": 0,
+      "id": "58fcc00f17ffc7001c0e3909"
+    },
+    "__v": 1,
+    "attendees": [
+      {
+        "_id": "58fcc00f17ffc7001c0e3909",
+        "firstName": "Hank",
+        "lastName": "Black",
+        "email": "hank8617@gmail.com",
+        "__v": 0,
+        "id": "58fcc00f17ffc7001c0e3909"
+      }
+    ],
+    "id": "58fcee57b3df9e001dc569f7"
+  },
+  {
+    "_id": "58fd012417ffc7001c0e391d",
+    "updatedAt": "2017-04-24T00:01:43.527Z",
+    "createdAt": "2017-04-23T19:31:48.821Z",
+    "capacity": 12,
+    "title": "tite",
+    "description": "description",
+    "startsAt": "2017-04-28T05:00:00.000Z",
+    "owner": {
+      "_id": "58fb935de3413700225da545",
+      "firstName": "Casillero",
+      "lastName": "dfe",
+      "email": "jasmo2.com@gmail.com",
+      "__v": 0,
+      "id": "58fb935de3413700225da545"
+    },
+    "__v": 11,
+    "attendees": [],
+    "id": "58fd012417ffc7001c0e391d"
+  },
+  {
+    "_id": "58fe7285b4b030002271b03f",
+    "updatedAt": "2017-07-26T22:12:20.626Z",
+    "createdAt": "2017-04-24T21:47:49.260Z",
+    "title": "Test Juan 3",
+    "capacity": 4,
+    "startsAt": "2020-04-04T21:47:00.000Z",
+    "description": "test",
+    "owner": {
+      "_id": "58f18332d7a6ef0022c9bf78",
+      "firstName": "Juan",
+      "lastName": "Magalhaes",
+      "email": "juan.magalhaes@strv.com",
+      "__v": 0,
+      "id": "58f18332d7a6ef0022c9bf78"
+    },
+    "__v": 19,
+    "attendees": [
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58fe7285b4b030002271b03f"
+  },
+  {
+    "_id": "58febaad1bea36001c150914",
+    "updatedAt": "2017-05-06T23:50:45.843Z",
+    "createdAt": "2017-04-25T02:55:41.611Z",
+    "title": "New",
+    "startsAt": "2020-04-26T02:55:00.000Z",
+    "capacity": 1,
+    "description": "Bla",
+    "owner": {
+      "_id": "58f18332d7a6ef0022c9bf78",
+      "firstName": "Juan",
+      "lastName": "Magalhaes",
+      "email": "juan.magalhaes@strv.com",
+      "__v": 0,
+      "id": "58f18332d7a6ef0022c9bf78"
+    },
+    "__v": 9,
+    "attendees": [
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      }
+    ],
+    "id": "58febaad1bea36001c150914"
+  },
+  {
+    "_id": "58fef4bcd7555e001c7c5954",
+    "updatedAt": "2017-04-26T17:51:56.985Z",
+    "createdAt": "2017-04-25T07:03:24.566Z",
+    "title": "Latex Party!",
+    "description": "Wear latex and nothing else!",
+    "capacity": 10,
+    "startsAt": "2017-04-27T20:10:00.000Z",
+    "owner": {
+      "_id": "5878c5dd5f94d3001c1469c7",
+      "firstName": "Black",
+      "lastName": "Widow",
+      "email": "blackwidow@strv.com",
+      "__v": 0,
+      "id": "5878c5dd5f94d3001c1469c7"
+    },
+    "__v": 2,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      },
+      {
+        "_id": "58c661873d3be70022b70940",
+        "firstName": "test",
+        "lastName": "user",
+        "email": "user@example.com",
+        "__v": 0,
+        "id": "58c661873d3be70022b70940"
+      }
+    ],
+    "id": "58fef4bcd7555e001c7c5954"
+  },
+  {
+    "_id": "58ffc1f71327470022023bb9",
+    "updatedAt": "2017-05-09T13:46:04.111Z",
+    "createdAt": "2017-04-25T21:39:03.086Z",
+    "title": "Gojira Concert",
+    "capacity": 5000,
+    "startsAt": "2017-05-18T21:21:00.000Z",
+    "description": "Gojira rocks! Awesome!   /,,/",
+    "owner": {
+      "_id": "58f18332d7a6ef0022c9bf78",
+      "firstName": "Juan",
+      "lastName": "Magalhaes",
+      "email": "juan.magalhaes@strv.com",
+      "__v": 0,
+      "id": "58f18332d7a6ef0022c9bf78"
+    },
+    "__v": 29,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58ffc1f71327470022023bb9"
+  },
+  {
+    "_id": "58feeecfd7555e001c7c5953",
+    "updatedAt": "2017-06-30T15:40:05.028Z",
+    "createdAt": "2017-04-25T06:38:07.227Z",
+    "title": "Love Generator 22",
+    "description": "Simply the most exciting event ever to happen.",
+    "capacity": 100,
+    "startsAt": "2017-07-19T06:00:00.000Z",
+    "owner": {
+      "_id": "5878c5dd5f94d3001c1469c7",
+      "firstName": "Black",
+      "lastName": "Widow",
+      "email": "blackwidow@strv.com",
+      "__v": 0,
+      "id": "5878c5dd5f94d3001c1469c7"
+    },
+    "__v": 24,
+    "attendees": [
+      {
+        "_id": "5878c66f5f94d3001c1469c8",
+        "firstName": "Just",
+        "lastName": "Thor",
+        "email": "thor@strv.com",
+        "__v": 0,
+        "id": "5878c66f5f94d3001c1469c8"
+      },
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58feeecfd7555e001c7c5953"
+  },
+  {
+    "_id": "5904a37cc13e330022b76341",
+    "updatedAt": "2017-05-17T13:12:44.364Z",
+    "createdAt": "2017-04-29T14:30:20.941Z",
+    "title": "Sambuka party",
+    "startsAt": "2017-08-31T19:00:00.000Z",
+    "capacity": 2,
+    "description": "We need more peeps over here!",
+    "owner": {
+      "_id": "5878c66f5f94d3001c1469c8",
+      "firstName": "Just",
+      "lastName": "Thor",
+      "email": "thor@strv.com",
+      "__v": 0,
+      "id": "5878c66f5f94d3001c1469c8"
+    },
+    "__v": 43,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      },
+      {
+        "_id": "591c43d8455e470022d34c69",
+        "email": "a@a.cz",
+        "lastName": "Ahoj",
+        "firstName": "Ahoj",
+        "__v": 0,
+        "id": "591c43d8455e470022d34c69"
+      }
+    ],
+    "id": "5904a37cc13e330022b76341"
+  },
+  {
+    "_id": "58fce4ddb3df9e001dc569f5",
+    "updatedAt": "2017-05-02T16:30:32.615Z",
+    "createdAt": "2017-04-23T17:31:09.526Z",
+    "capacity": 352435,
+    "title": "fgjkdfgl",
+    "description": "description",
+    "startsAt": "2017-05-06T05:00:00.000Z",
+    "owner": {
+      "_id": "58fb935de3413700225da545",
+      "firstName": "Casillero",
+      "lastName": "dfe",
+      "email": "jasmo2.com@gmail.com",
+      "__v": 0,
+      "id": "58fb935de3413700225da545"
+    },
+    "__v": 16,
+    "attendees": [
+      {
+        "_id": "58fb935de3413700225da545",
+        "firstName": "Casillero",
+        "lastName": "dfe",
+        "email": "jasmo2.com@gmail.com",
+        "__v": 0,
+        "id": "58fb935de3413700225da545"
+      },
+      {
+        "_id": "58fcc00f17ffc7001c0e3909",
+        "firstName": "Hank",
+        "lastName": "Black",
+        "email": "hank8617@gmail.com",
+        "__v": 0,
+        "id": "58fcc00f17ffc7001c0e3909"
+      },
+      {
+        "_id": "58f18332d7a6ef0022c9bf78",
+        "firstName": "Juan",
+        "lastName": "Magalhaes",
+        "email": "juan.magalhaes@strv.com",
+        "__v": 0,
+        "id": "58f18332d7a6ef0022c9bf78"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58fce4ddb3df9e001dc569f5"
+  },
+  {
+    "_id": "5906a3399df1c00022b89c84",
+    "updatedAt": "2017-05-01T03:24:21.933Z",
+    "createdAt": "2017-05-01T02:53:45.855Z",
+    "title": "Paty Event",
+    "capacity": 1,
+    "startsAt": "2017-05-02T02:50:00.000Z",
+    "description": "anything",
+    "owner": {
+      "_id": "5906a3169df1c00022b89c83",
+      "email": "paty@gmail.com",
+      "lastName": "Rocha",
+      "firstName": "Patricia",
+      "__v": 0,
+      "id": "5906a3169df1c00022b89c83"
+    },
+    "__v": 1,
+    "attendees": [
+      {
+        "_id": "5906a3169df1c00022b89c83",
+        "email": "paty@gmail.com",
+        "lastName": "Rocha",
+        "firstName": "Patricia",
+        "__v": 0,
+        "id": "5906a3169df1c00022b89c83"
+      }
+    ],
+    "id": "5906a3399df1c00022b89c84"
+  },
+  {
+    "_id": "5906a35d667e81001c2258b1",
+    "updatedAt": "2017-05-02T16:30:15.735Z",
+    "createdAt": "2017-05-01T02:54:21.863Z",
+    "title": "Paty new event",
+    "capacity": 4,
+    "startsAt": "2017-05-03T02:50:00.000Z",
+    "description": "bla",
+    "owner": {
+      "_id": "5906a3169df1c00022b89c83",
+      "email": "paty@gmail.com",
+      "lastName": "Rocha",
+      "firstName": "Patricia",
+      "__v": 0,
+      "id": "5906a3169df1c00022b89c83"
+    },
+    "__v": 1,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "5906a35d667e81001c2258b1"
+  },
+  {
+    "_id": "5906a377667e81001c2258b2",
+    "updatedAt": "2017-06-06T13:39:32.490Z",
+    "createdAt": "2017-05-01T02:54:47.372Z",
+    "title": "Paty whatever",
+    "capacity": 7,
+    "startsAt": "2020-04-03T02:50:00.000Z",
+    "description": "whatever",
+    "owner": {
+      "_id": "5906a3169df1c00022b89c83",
+      "email": "paty@gmail.com",
+      "lastName": "Rocha",
+      "firstName": "Patricia",
+      "__v": 0,
+      "id": "5906a3169df1c00022b89c83"
+    },
+    "__v": 11,
+    "attendees": [
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      }
+    ],
+    "id": "5906a377667e81001c2258b2"
+  },
+  {
+    "_id": "58da5c099246e700229c08e1",
+    "updatedAt": "2017-05-09T10:43:15.107Z",
+    "createdAt": "2017-03-28T12:50:17.511Z",
+    "title": "event",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasda",
+    "capacity": 45,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 27,
+    "attendees": [
+      {
+        "_id": "5878c71f5f94d3001c1469ca",
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "email": "peterparker@strv.com",
+        "__v": 0,
+        "id": "5878c71f5f94d3001c1469ca"
+      },
+      {
+        "_id": "5889daa146cb69001cc84af8",
+        "firstName": "torma",
+        "lastName": "teddy",
+        "email": "torma@teddy.com",
+        "__v": 0,
+        "id": "5889daa146cb69001cc84af8"
+      },
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58da5c099246e700229c08e1"
+  },
+  {
+    "_id": "58da5bf79246e700229c08e0",
+    "updatedAt": "2017-05-09T02:00:00.082Z",
+    "createdAt": "2017-03-28T12:49:59.858Z",
+    "title": "event",
+    "startsAt": "2018-12-08T10:46:33.901Z",
+    "description": "dasda",
+    "capacity": 45,
+    "owner": {
+      "_id": "58da41379246e700229c08dd",
+      "email": "anibalcezar@live.com",
+      "firstName": "anibal",
+      "lastName": "catheringer",
+      "__v": 0,
+      "id": "58da41379246e700229c08dd"
+    },
+    "__v": 113,
+    "attendees": [
+      {
+        "_id": "5889daa146cb69001cc84af8",
+        "firstName": "torma",
+        "lastName": "teddy",
+        "email": "torma@teddy.com",
+        "__v": 0,
+        "id": "5889daa146cb69001cc84af8"
+      },
+      {
+        "_id": "58edefa38ba724001c28adc7",
+        "firstName": "final",
+        "lastName": "person",
+        "email": "final@person.com",
+        "__v": 0,
+        "id": "58edefa38ba724001c28adc7"
+      },
+      {
+        "_id": "5878c8336cd5a70022992ce4",
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "email": "tonystark@strv.com",
+        "__v": 0,
+        "id": "5878c8336cd5a70022992ce4"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "58da5bf79246e700229c08e0"
+  },
+  {
+    "_id": "590e7d072a29e30022e7c87a",
+    "updatedAt": "2017-05-09T00:26:00.970Z",
+    "createdAt": "2017-05-07T01:48:55.440Z",
+    "title": "Pink Floyd Concert",
+    "capacity": 10000,
+    "startsAt": "2017-05-09T01:45:00.000Z",
+    "description": "Live at Pompey",
+    "owner": {
+      "_id": "59053b72c13e330022b76343",
+      "email": "juanrochamagalhaes@hotmail.com",
+      "lastName": "Magalhães",
+      "firstName": "Juan",
+      "__v": 0,
+      "id": "59053b72c13e330022b76343"
+    },
+    "__v": 10,
+    "attendees": [
+      {
+        "_id": "5878c66f5f94d3001c1469c8",
+        "firstName": "Just",
+        "lastName": "Thor",
+        "email": "thor@strv.com",
+        "__v": 0,
+        "id": "5878c66f5f94d3001c1469c8"
+      },
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      }
+    ],
+    "id": "590e7d072a29e30022e7c87a"
+  },
+  {
+    "_id": "590e7e072a29e30022e7c87b",
+    "updatedAt": "2017-05-07T16:30:46.221Z",
+    "createdAt": "2017-05-07T01:53:11.705Z",
+    "title": "Gojira Concert",
+    "capacity": 10000,
+    "startsAt": "2017-05-08T01:45:00.000Z",
+    "description": "Gojira Rocks",
+    "owner": {
+      "_id": "59053b72c13e330022b76343",
+      "email": "juanrochamagalhaes@hotmail.com",
+      "lastName": "Magalhães",
+      "firstName": "Juan",
+      "__v": 0,
+      "id": "59053b72c13e330022b76343"
+    },
+    "__v": 1,
+    "attendees": [
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      }
+    ],
+    "id": "590e7e072a29e30022e7c87b"
+  },
+  {
+    "_id": "590e7e2f2a29e30022e7c87c",
+    "updatedAt": "2017-05-07T09:39:23.270Z",
+    "createdAt": "2017-05-07T01:53:51.889Z",
+    "title": "Guardians of the Galaxy vol. 2",
+    "capacity": 100,
+    "startsAt": "2017-05-08T01:45:00.000Z",
+    "description": "I am Groot!",
+    "owner": {
+      "_id": "59053b72c13e330022b76343",
+      "email": "juanrochamagalhaes@hotmail.com",
+      "lastName": "Magalhães",
+      "firstName": "Juan",
+      "__v": 0,
+      "id": "59053b72c13e330022b76343"
+    },
+    "__v": 1,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "590e7e2f2a29e30022e7c87c"
+  },
+  {
+    "_id": "590e7ea82a29e30022e7c87d",
+    "updatedAt": "2017-05-07T01:55:52.955Z",
+    "createdAt": "2017-05-07T01:55:52.955Z",
+    "title": "Ping Pong Contest",
+    "capacity": 2,
+    "startsAt": "2017-05-08T01:55:00.000Z",
+    "description": "Good luck",
+    "owner": {
+      "_id": "59053b72c13e330022b76343",
+      "email": "juanrochamagalhaes@hotmail.com",
+      "lastName": "Magalhães",
+      "firstName": "Juan",
+      "__v": 0,
+      "id": "59053b72c13e330022b76343"
+    },
+    "__v": 0,
+    "attendees": [],
+    "id": "590e7ea82a29e30022e7c87d"
+  },
+  {
+    "_id": "590e7ed694a57e001c004f53",
+    "updatedAt": "2017-05-07T01:56:38.732Z",
+    "createdAt": "2017-05-07T01:56:38.732Z",
+    "title": "Lunch on the office",
+    "capacity": 10,
+    "startsAt": "2017-05-08T01:45:00.000Z",
+    "description": "Nice meal is waiting",
+    "owner": {
+      "_id": "59053b72c13e330022b76343",
+      "email": "juanrochamagalhaes@hotmail.com",
+      "lastName": "Magalhães",
+      "firstName": "Juan",
+      "__v": 0,
+      "id": "59053b72c13e330022b76343"
+    },
+    "__v": 0,
+    "attendees": [],
+    "id": "590e7ed694a57e001c004f53"
+  },
+  {
+    "_id": "590f6d0173e8d2001d613b8f",
+    "updatedAt": "2017-05-08T18:47:05.160Z",
+    "createdAt": "2017-05-07T18:52:49.089Z",
+    "title": "Coffee on Sweet dreams",
+    "capacity": 3,
+    "startsAt": "2017-05-08T18:52:00.000Z",
+    "description": "With a nice piece of pie",
+    "owner": {
+      "_id": "59053b72c13e330022b76343",
+      "email": "juanrochamagalhaes@hotmail.com",
+      "lastName": "Magalhães",
+      "firstName": "Juan",
+      "__v": 0,
+      "id": "59053b72c13e330022b76343"
+    },
+    "__v": 5,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      },
+      {
+        "_id": "5878c66f5f94d3001c1469c8",
+        "firstName": "Just",
+        "lastName": "Thor",
+        "email": "thor@strv.com",
+        "__v": 0,
+        "id": "5878c66f5f94d3001c1469c8"
+      },
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      }
+    ],
+    "id": "590f6d0173e8d2001d613b8f"
+  },
+  {
+    "_id": "5910f917ad3873001cf004da",
+    "updatedAt": "2017-05-09T23:00:26.353Z",
+    "createdAt": "2017-05-08T23:02:47.750Z",
+    "title": "Snoop Dog Rap Show",
+    "capacity": 10000,
+    "startsAt": "2017-05-09T23:01:00.000Z",
+    "description": "Rap show",
+    "owner": {
+      "_id": "5910f8ec9a432d001d859f97",
+      "email": "snoop@dog.com",
+      "lastName": "Dog",
+      "firstName": "Snoop",
+      "__v": 0,
+      "id": "5910f8ec9a432d001d859f97"
+    },
+    "__v": 10,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      },
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      }
+    ],
+    "id": "5910f917ad3873001cf004da"
+  },
+  {
+    "_id": "59119f159a432d001d859f9b",
+    "updatedAt": "2017-05-09T10:51:01.438Z",
+    "createdAt": "2017-05-09T10:51:01.438Z",
+    "title": "a",
+    "description": "b",
+    "startsAt": "2017-05-10T22:00:00.000Z",
+    "capacity": 5,
+    "owner": {
+      "_id": "5878c71f5f94d3001c1469ca",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peterparker@strv.com",
+      "__v": 0,
+      "id": "5878c71f5f94d3001c1469ca"
+    },
+    "__v": 0,
+    "attendees": [],
+    "id": "59119f159a432d001d859f9b"
+  },
+  {
+    "_id": "59119f17ad3873001cf004e0",
+    "updatedAt": "2017-05-09T18:15:03.520Z",
+    "createdAt": "2017-05-09T10:51:03.068Z",
+    "title": "a",
+    "description": "b",
+    "startsAt": "2017-05-10T22:00:00.000Z",
+    "capacity": 5,
+    "owner": {
+      "_id": "5878c71f5f94d3001c1469ca",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peterparker@strv.com",
+      "__v": 0,
+      "id": "5878c71f5f94d3001c1469ca"
+    },
+    "__v": 2,
+    "attendees": [],
+    "id": "59119f17ad3873001cf004e0"
+  },
+  {
+    "_id": "59119f179a432d001d859f9c",
+    "updatedAt": "2017-05-09T16:48:37.620Z",
+    "createdAt": "2017-05-09T10:51:03.976Z",
+    "title": "a",
+    "description": "b",
+    "startsAt": "2017-05-17T22:00:00.000Z",
+    "capacity": 5,
+    "owner": {
+      "_id": "5878c71f5f94d3001c1469ca",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peterparker@strv.com",
+      "__v": 0,
+      "id": "5878c71f5f94d3001c1469ca"
+    },
+    "__v": 1,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "59119f179a432d001d859f9c"
+  },
+  {
+    "_id": "59119f18ad3873001cf004e1",
+    "updatedAt": "2017-05-09T18:15:08.198Z",
+    "createdAt": "2017-05-09T10:51:04.533Z",
+    "title": "a",
+    "description": "b",
+    "startsAt": "2017-05-10T22:00:00.000Z",
+    "capacity": 5,
+    "owner": {
+      "_id": "5878c71f5f94d3001c1469ca",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peterparker@strv.com",
+      "__v": 0,
+      "id": "5878c71f5f94d3001c1469ca"
+    },
+    "__v": 7,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "59119f18ad3873001cf004e1"
+  },
+  {
+    "_id": "59119f189a432d001d859f9d",
+    "updatedAt": "2017-05-09T14:13:27.063Z",
+    "createdAt": "2017-05-09T10:51:05.000Z",
+    "title": "a",
+    "description": "b",
+    "startsAt": "2017-05-10T22:00:00.000Z",
+    "capacity": 5,
+    "owner": {
+      "_id": "5878c71f5f94d3001c1469ca",
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "email": "peterparker@strv.com",
+      "__v": 0,
+      "id": "5878c71f5f94d3001c1469ca"
+    },
+    "__v": 1,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "59119f189a432d001d859f9d"
+  },
+  {
+    "_id": "5911ceb8eabeff0022014244",
+    "updatedAt": "2017-05-19T13:42:05.826Z",
+    "createdAt": "2017-05-09T14:14:16.466Z",
+    "title": "Great stuff!",
+    "description": "Just go!",
+    "capacity": 120,
+    "startsAt": "2017-05-19T15:00:00.000Z",
+    "owner": {
+      "_id": "5878c4726cd5a70022992cdf",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "email": "brucebanner@strv.com",
+      "__v": 0,
+      "id": "5878c4726cd5a70022992cdf"
+    },
+    "__v": 3,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "5911ceb8eabeff0022014244"
+  },
+  {
+    "_id": "5911cefdeabeff0022014245",
+    "updatedAt": "2017-05-09T14:15:25.716Z",
+    "createdAt": "2017-05-09T14:15:25.716Z",
+    "title": "Testing the test",
+    "description": "dude...",
+    "capacity": 2,
+    "startsAt": "2017-05-20T15:00:00.000Z",
+    "owner": {
+      "_id": "5878c4726cd5a70022992cdf",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "email": "brucebanner@strv.com",
+      "__v": 0,
+      "id": "5878c4726cd5a70022992cdf"
+    },
+    "__v": 0,
+    "attendees": [],
+    "id": "5911cefdeabeff0022014245"
+  },
+  {
+    "_id": "5911d008eabeff0022014246",
+    "updatedAt": "2017-05-09T16:43:21.441Z",
+    "createdAt": "2017-05-09T14:19:52.695Z",
+    "title": "Another one...",
+    "description": "Another one. Another one",
+    "capacity": 100,
+    "startsAt": "2017-05-19T15:00:00.000Z",
+    "owner": {
+      "_id": "5878c4726cd5a70022992cdf",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "email": "brucebanner@strv.com",
+      "__v": 0,
+      "id": "5878c4726cd5a70022992cdf"
+    },
+    "__v": 1,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "5911d008eabeff0022014246"
+  },
+  {
+    "_id": "5911d6ebeabeff0022014247",
+    "updatedAt": "2017-05-09T23:10:31.169Z",
+    "createdAt": "2017-05-09T14:49:15.103Z",
+    "title": "New great event",
+    "description": "testing",
+    "capacity": 2,
+    "startsAt": "2017-05-20T15:00:00.000Z",
+    "owner": {
+      "_id": "5878c4726cd5a70022992cdf",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "email": "brucebanner@strv.com",
+      "__v": 0,
+      "id": "5878c4726cd5a70022992cdf"
+    },
+    "__v": 2,
+    "attendees": [],
+    "id": "5911d6ebeabeff0022014247"
+  },
+  {
+    "_id": "591241442fefc3001cc8cbf1",
+    "updatedAt": "2017-06-30T15:40:03.287Z",
+    "createdAt": "2017-05-09T22:23:00.115Z",
+    "title": "Hardcore cup lifting",
+    "description": "Don't bring your own cup. Only CFTA certified cups are allowed",
+    "capacity": 20,
+    "startsAt": "2017-07-19T15:00:00.000Z",
+    "owner": {
+      "_id": "5878c4726cd5a70022992cdf",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "email": "brucebanner@strv.com",
+      "__v": 0,
+      "id": "5878c4726cd5a70022992cdf"
+    },
+    "__v": 10,
+    "attendees": [
+      {
+        "_id": "59053b72c13e330022b76343",
+        "email": "juanrochamagalhaes@hotmail.com",
+        "lastName": "Magalhães",
+        "firstName": "Juan",
+        "__v": 0,
+        "id": "59053b72c13e330022b76343"
+      },
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "591241442fefc3001cc8cbf1"
+  },
+  {
+    "_id": "59124ff02fefc3001cc8cbf3",
+    "updatedAt": "2017-05-09T23:44:00.856Z",
+    "createdAt": "2017-05-09T23:25:36.861Z",
+    "title": "teste",
+    "capacity": 1,
+    "startsAt": "2017-05-10T23:22:00.000Z",
+    "description": "123045678912304567891230456789123045678912304567891230456789123045678912304567891230456789123045678912304567891230456789123045678912304567891230456789123045678912304567891230456789123045678912304567891230456789123045678912304567891230456789123045678912304567891230456789123045678912304567891230456789",
+    "owner": {
+      "_id": "590790a0b5ebf30022452323",
+      "email": "rafael.taranto5@gmail.com",
+      "lastName": "Taranto",
+      "firstName": "Rafael",
+      "__v": 0,
+      "id": "590790a0b5ebf30022452323"
+    },
+    "__v": 2,
+    "attendees": [],
+    "id": "59124ff02fefc3001cc8cbf3"
+  },
+  {
+    "_id": "59126ac9eabeff002201424e",
+    "updatedAt": "2017-05-10T02:27:44.184Z",
+    "createdAt": "2017-05-10T01:20:09.994Z",
+    "title": "Cruise to the edge",
+    "capacity": 100000,
+    "startsAt": "2017-05-11T01:18:00.000Z",
+    "description": "Yes!",
+    "owner": {
+      "_id": "59053b72c13e330022b76343",
+      "email": "juanrochamagalhaes@hotmail.com",
+      "lastName": "Magalhães",
+      "firstName": "Juan",
+      "__v": 0,
+      "id": "59053b72c13e330022b76343"
+    },
+    "__v": 1,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "59126ac9eabeff002201424e"
+  },
+  {
+    "_id": "5912dd702fefc3001cc8cbf5",
+    "updatedAt": "2017-05-10T09:29:20.484Z",
+    "createdAt": "2017-05-10T09:29:20.484Z",
+    "title": "testXYZ",
+    "description": "...",
+    "startsAt": "2017-05-10T22:00:00.000Z",
+    "capacity": 1,
+    "owner": {
+      "_id": "5878c4726cd5a70022992cdf",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "email": "brucebanner@strv.com",
+      "__v": 0,
+      "id": "5878c4726cd5a70022992cdf"
+    },
+    "__v": 0,
+    "attendees": [],
+    "id": "5912dd702fefc3001cc8cbf5"
+  },
+  {
+    "_id": "59139f90e41d8d001c09acce",
+    "updatedAt": "2017-05-10T23:18:11.904Z",
+    "createdAt": "2017-05-10T23:17:36.357Z",
+    "title": "Test",
+    "description": "boop boop",
+    "capacity": 1244,
+    "startsAt": "2017-05-16T10:00:00.000Z",
+    "owner": {
+      "_id": "5878c5dd5f94d3001c1469c7",
+      "firstName": "Black",
+      "lastName": "Widow",
+      "email": "blackwidow@strv.com",
+      "__v": 0,
+      "id": "5878c5dd5f94d3001c1469c7"
+    },
+    "__v": 2,
+    "attendees": [],
+    "id": "59139f90e41d8d001c09acce"
+  },
+  {
+    "_id": "59157f35cd4dd9001d7ba9ee",
+    "updatedAt": "2017-05-22T12:34:48.338Z",
+    "createdAt": "2017-05-12T09:24:05.820Z",
+    "title": "khigugyugy",
+    "description": "rsersrs",
+    "startsAt": "2017-05-23T22:00:00.000Z",
+    "capacity": 40,
+    "owner": {
+      "_id": "5878c4726cd5a70022992cdf",
+      "firstName": "Bruce",
+      "lastName": "Banner",
+      "email": "brucebanner@strv.com",
+      "__v": 0,
+      "id": "5878c4726cd5a70022992cdf"
+    },
+    "__v": 3,
+    "attendees": [
+      {
+        "_id": "5878c4726cd5a70022992cdf",
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "email": "brucebanner@strv.com",
+        "__v": 0,
+        "id": "5878c4726cd5a70022992cdf"
+      }
+    ],
+    "id": "59157f35cd4dd9001d7ba9ee"
+  }
+]

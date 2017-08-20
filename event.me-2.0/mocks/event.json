@@ -1,0 +1,61 @@
+{
+    "_id": "5878c5145f94d3001c1469c5",
+    "updatedAt": "2017-01-29T09:44:31.131Z",
+    "createdAt": "2017-01-13T12:16:20.671Z",
+    "startsAt": "2017-01-30T11:15:33.000Z",
+    "title": "Mexican Night Party vol. 2",
+    "description": "Party in Scrollbar",
+    "capacity": 50,
+    "owner": {
+      "_id": "5878befc5f94d3001c1469c3",
+      "firstName": "Daniel",
+      "lastName": "Kijkov",
+      "email": "dankijkov@gmail.com",
+      "__v": 0,
+      "id": "5878befc5f94d3001c1469c3"
+    },
+    "__v": 97,
+    "attendees": [
+      {
+        "_id": "5878befc5f94d3001c1469c3",
+        "firstName": "Daniel",
+        "lastName": "Kijkov",
+        "email": "dankijkov@gmail.com",
+        "__v": 0,
+        "id": "5878befc5f94d3001c1469c3"
+      },
+      {
+        "_id": "5878c66f5f94d3001c1469c8",
+        "firstName": "Just",
+        "lastName": "Thor",
+        "email": "thor@strv.com",
+        "__v": 0,
+        "id": "5878c66f5f94d3001c1469c8"
+      },
+      {
+        "_id": "5878c71f5f94d3001c1469ca",
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "email": "peterparker@strv.com",
+        "__v": 0,
+        "id": "5878c71f5f94d3001c1469ca"
+      },
+      {
+        "_id": "5878c7986cd5a70022992ce2",
+        "firstName": "Bucky",
+        "lastName": "Barnes",
+        "email": "buckybarnes@strv.com",
+        "__v": 0,
+        "id": "5878c7986cd5a70022992ce2"
+      },
+      {
+        "_id": "5884eb0d3d76ea0022304474",
+        "firstName": "Adam",
+        "lastName": "V",
+        "email": "adam.vresky+test12345@strv.com",
+        "__v": 0,
+        "id": "5884eb0d3d76ea0022304474"
+      }
+    ],
+    "id": "5878c5145f94d3001c1469c5"
+  }
