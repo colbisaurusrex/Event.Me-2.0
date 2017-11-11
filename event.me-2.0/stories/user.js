@@ -18,7 +18,9 @@ storiesOf('User', module)
     .add('User Card', () => {
         return (
             <div style={style}>
-                <div style={{width: '300px'}}>Note: these are intended to be used both on the Event Card and in a modal displayed when the user clicks on attendees</div>
+                <div style={{width: '300px'}}>
+                    Note: these are intended to be used both on the Event Card and in a modal displayed when the user clicks on attendees
+                </div>
                 <Card>
                     <Card.Content>
                         <Image floated='right' size='mini' src='https://bugs.mojang.com/secure/useravatar?size=xsmall&avatarId=18936'/>

@@ -3,8 +3,9 @@ import { Card, Icon, Image, Divider, Button } from 'semantic-ui-react'
 import ButtonGroup from './ButtonGroup.jsx'
 
 const UserCard = ({name, email, image, isHost}) => {
+    
     return (
-        <Card raised={true} style={{cursor: 'pointer', paddingBottom: '20px'}}>
+        <Card raised={true} style={{cursor: 'pointer'}}>
             <Card.Content>
                 <Image floated='right' size='mini' src={image}/>
                 <Card.Header style={{marginBottom: '3px'}}>
@@ -13,7 +14,7 @@ const UserCard = ({name, email, image, isHost}) => {
                 <Card.Meta style={{fontSize: '10px'}}>
                     {email}
                 </Card.Meta>
-                {isHost && 
+                {/* {isHost && 
                     <Divider>
                         <ButtonGroup 
                             buttonOne={'edit'}
@@ -22,7 +23,7 @@ const UserCard = ({name, email, image, isHost}) => {
                             callBackTwo={() => console.log('delete event')}
                         />
                     </Divider>
-                }
+                } */}
             </Card.Content>
         </Card>
     )

@@ -25,7 +25,11 @@ storiesOf('Event', module)
           <div>Note: Event Cards should be of fixed height</div>
           <Card style={{padding: '5px', minHeight: '600px'}} raised={true}>
             <Card.Content>
+              <Icon name="pencil" size="large" style={{float: 'right'}}/>
               <Image src='https://bugster.forgerock.org/jira/secure/useravatar?size=xsmall&avatarId=12840' />
+              <Card.Header style={{marginTop: '5px', marginBottom: '3px', textAlign: 'center'}}>
+                  {text('user', `${truncate(title, {'length': 25})}`)}
+              </Card.Header>
                <UserCard 
                   name={text('Name', `${owner.firstName + ' ' + owner.lastName}`)} 
                   email={text('Email', `${owner.email}`)}
