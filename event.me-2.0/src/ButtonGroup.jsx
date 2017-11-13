@@ -1,7 +1,7 @@
 import React from 'react';
 import { Card, Icon, Image, Divider, Button } from 'semantic-ui-react'
 // NOTE: How can I use spread operator here?
-const ButtonGroup = ({buttonOne, buttonTwo, callbackOne, callBackTwo}) => {
+const ButtonGroup = ({buttonOne, buttonTwo, callbackOne, callbackTwo}) => {
     return(
         <div className='ui two buttons'>
             <Button basic color='green' onClick={() => callbackOne()}>{buttonOne}</Button>
